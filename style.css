@@ -89,6 +89,9 @@ p{
 .pie button{
     background-color: #E5989B;
 }
+#gracias{
+    display: block;
+}
 
 @media (max-width:600px) {
     .column {
